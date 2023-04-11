@@ -1,0 +1,10 @@
+nombre = input(str('Ingrese su nombre: '))
+apellido = input(str('Ingrese su apellido: '))
+codigo_seccion = input(str('Ingrese el codigo de su seccion: '))
+sede = input(str('Ingrese la sede en la que estudia: '))
+
+print('--------------------------------')
+print('Ficha personal:\n')
+print(nombre , apellido)
+print(codigo_seccion)
+print(sede)
